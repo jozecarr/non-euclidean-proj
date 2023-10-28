@@ -16,6 +16,6 @@ public class cameracontroller : MonoBehaviour
 
         deltaMouse = Input.mousePosition - deltaMouse;
         transform.Rotate(0, deltaMouse.x, 0);
-        deltaMouse = Input.mousePosition;
+        deltaMouse = Input.mousePosition; 
     }
 }
