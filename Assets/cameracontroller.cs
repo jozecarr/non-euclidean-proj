@@ -15,7 +15,9 @@ public class cameracontroller : MonoBehaviour
         transform.position = playerTrans.position;
 
         deltaMouse = Input.mousePosition - deltaMouse;
-        transform.Rotate(0, deltaMouse.x, 0);
+        transform.Rotate(Vector3.up, deltaMouse.x, Space.World);
+        transform.Rotate(Vector3.right, -deltaMouse.y);
+
         deltaMouse = Input.mousePosition; 
     }
 }
