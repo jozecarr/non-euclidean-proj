@@ -1,0 +1,15 @@
+difference between abstract and introduction
+estimated times
+depth of prototype
+bibliography
+final length of proposal
+
+this project aims at creating...
+introduction after first paragraph
+add same links even if repeated, add explicit visible links (1),(2),...
+
+writeup start in feb, even if implementation not done - add to milestones
+
+email wellbeing, cc martin
+
+write weekly a short message explaining progress

@@ -1,0 +1,213 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{4}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cde9f312afc220d7464c61c9a3a5b7ae}{%
+           family={CodeParade},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{fullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{bibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorbibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authornamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorfullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/playlist?list=PLh9DXIT3m6N4qJK9GKQB3yk61tVe6qJ}}
+      \field{month}{11}
+      \field{title}{Hyperbolica - YouTube}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cde9f312afc220d7464c61c9a3a5b7ae}{%
+           family={CodeParade},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{fullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{bibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorbibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authornamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorfullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=zQo_S3yNa2w}}
+      \field{month}{06}
+      \field{title}{Non-Euclidean Geometry Explained - Hyperbolica Devlog #1 - YouTube}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cde9f312afc220d7464c61c9a3a5b7ae}{%
+           family={CodeParade},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {YouTube}%
+      }
+      \strng{namehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{fullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{bibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorbibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authornamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorfullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=kEB11PQ9Eo8}}
+      \field{month}{08}
+      \field{title}{Non-Euclidean Worlds Engine}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{3}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cde9f312afc220d7464c61c9a3a5b7ae}{%
+           family={CodeParade},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{fullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{bibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorbibnamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authornamehash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \strng{authorfullhash}{cde9f312afc220d7464c61c9a3a5b7ae}
+      \field{extraname}{4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=yY9GAyJtuJ0}}
+      \field{month}{07}
+      \field{title}{Spherical Geometry Is Stranger Than Hyperbolic - Hyperbolica Devlog #2 - YouTube}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{6}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=81fd520b82c895935948ac88a6b69adb}{%
+           family={Madore},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{fullhash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{bibnamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authorbibnamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authornamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authorfullhash}{81fd520b82c895935948ac88a6b69adb}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.madore.org/~david/}}
+      \field{month}{10}
+      \field{title}{David Madore}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{5}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=81fd520b82c895935948ac88a6b69adb}{%
+           family={Madore},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{fullhash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{bibnamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authorbibnamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authornamehash}{81fd520b82c895935948ac88a6b69adb}
+      \strng{authorfullhash}{81fd520b82c895935948ac88a6b69adb}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.madore.org/~david/math/hyperbolic-maze.html#explanations}}
+      \field{month}{02}
+      \field{title}{Hyperbolic maze}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{7}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=818411e81d8ba8b1d8c3d87c43a683a7}{%
+           family={ZenoRogue},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \strng{fullhash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \strng{bibnamehash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \strng{authorbibnamehash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \strng{authornamehash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \strng{authorfullhash}{818411e81d8ba8b1d8c3d87c43a683a7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.roguetemple.com/z/hyper/}}
+      \field{month}{10}
+      \field{title}{HyperRogue - About}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
