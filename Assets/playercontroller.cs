@@ -19,17 +19,17 @@ public class playercontroller : MonoBehaviour
     {
         this.transform.rotation = Quaternion.Euler(0, camTrans.rotation.eulerAngles.y, 0);
 
-        float horizontalInput = Input.GetAxis("Horizontal");
-        float verticalInput = Input.GetAxis("Vertical");
+        int w = Input.GetKey(KeyCode.W) ? 1 : 0;
+        int a = Input.GetKey(KeyCode.A) ? -1 : 0;
+        int s = Input.GetKey(KeyCode.S) ? -1 : 0;
+        int d = Input.GetKey(KeyCode.D) ? 1 : 0;
 
-        Vector3 cameraForward = camTrans.forward;
-        Vector3 cameraRight = camTrans.right;
-        cameraForward.y = 0f;
-        cameraRight.y = 0f;
-        cameraForward.Normalize();
-        cameraRight.Normalize();
+        int forwardsAmount = w + s;
+        int rightAmount = d + a;
 
-        Vector3 movement = (cameraForward * verticalInput + cameraRight * horizontalInput).normalized;
-        playerRB.velocity = movement * moveSpeed;
+        Vector2 movement = new Vector2(rightAmount, forwardsAmount).normalized;
+
+        Vector3 movement2 = (transform.forward * movement.y + transform.right * movement.x).normalized;
+        playerRB.velocity = movement2 * moveSpeed;
     }
 }
